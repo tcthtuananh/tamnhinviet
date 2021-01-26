@@ -1,0 +1,9 @@
+module.exports={
+    publicRuntimeConfig:{
+        APP_NAME:'TamNhinViet',
+        API_DEVELOPMENT:'http://localhost:8000/api',
+        PRODUCTION:false,
+        DOMAIN_DEVELOPMENT:'https://localhost:3000',
+        DOMAIN_PRODUCTION:'https://tuvanmang.com'
+    }
+}
